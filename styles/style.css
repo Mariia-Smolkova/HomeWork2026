@@ -1,4 +1,24 @@
-* {margin: 0;
-padding: 0;
-box-sizing: border-box;
+td {
+  border: 1px solid;
+  padding: 0.25rem 0.5rem;
+  text-align: center;
+}
+
+.main_table {
+  border: 1px solid;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main_caption {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.day {
+  border: none;
+}
+
+col.bg-color {
+  background-color: yellow;
 }
