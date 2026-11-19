@@ -1,0 +1,9 @@
+# Файлы, сгенерированные операционной системой #
+Thumbs.db
+
+# IDE and editors
+.idea
+.vscode
+
+#dotend enviroment variables file
+.env
