@@ -1,4 +1,23 @@
-* {margin: 0;
-padding: 0;
-box-sizing: border-box;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.7rem;
+}
+.container {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 1.1rem;
+}
+
+p {
+  margin: 0.5rem 0;
 }
